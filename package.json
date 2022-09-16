@@ -23,7 +23,7 @@
     "jsdoc": "3.6.7",
     "webpack-bundle-analyzer": "^4.5.0",
     "livereload": "^0.9.3",
-    "nodemon": "^2.0.12",
+    "nodemon": "^2.0.20",
     "webpack-dev-server": "^3"
   },
   "dependencies": {
